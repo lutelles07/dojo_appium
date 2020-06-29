@@ -1,7 +1,7 @@
 [caps]
 platformName = "Android"
 deviceName = "Mydevice"
-app = "/Users/lucianobarreto/Automation/dojo/Calculator_v7.8.apk"
+app = "/Users/lucianobarreto/Automation/dojo_appium/Calculator_v7.8.apk"
 appPackage = "com.google.android.calculator"
 disableWindowAnimation= false
 autoGrantPermissions= true
